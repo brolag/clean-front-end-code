@@ -1,5 +1,7 @@
 # Front End Best Practices Manual
 
+version 0.0.1
+
 ## Introduction
 
 This document aims to outline recommended patterns for Next.js applications, focusing on maintaining a scalable folder structure, organizing components cleanly, handling application state management, and sharing data between components. It also includes a guide to best practices for coding in React.
